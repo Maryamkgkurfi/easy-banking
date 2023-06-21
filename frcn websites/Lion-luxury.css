@@ -1,0 +1,13 @@
+.lion-1{
+		display:flex;
+		justify-content: space-around;
+	}
+	 .font-decor{
+color:#1E2B67;
+font-size:10px;
+font-family:sans-serif;
+	}
+
+	.bg-hero{
+		background-image: url("img");
+	}

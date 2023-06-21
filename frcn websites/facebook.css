@@ -1,0 +1,52 @@
+	body{
+		padding: 0px;
+		margin: 0px;
+		box-sizing: border-box;
+	}
+	.ctn{
+		display: flex;
+		background-color: darkblue;
+		justify-content: space-between;
+		align-items: center;
+		height: 100px;
+	}
+	.a{
+		color:white;
+		margin:7px;
+	}
+	.aa{
+		display:flex;
+		margin:10px;
+		padding:3px;
+		justify-content: space-around;
+	}
+	.fm{
+		margin:10px;
+	}
+	.ctr-n{
+		background-color:#f0f5f5;
+		display:flex;
+		justify-content: space-around;
+	}
+	.btn{
+		color:white;
+		background-color:blue;
+		border:2px solid blue;
+		border-radius:2px;
+		height: 25px;
+		margin:14px;
+	}
+	.flx{
+		display: flex;
+		margin:0px;
+	}
+	.inp{
+		padding: 8px;
+		border-radius: 5px;
+		border: 1px solid gray;
+	}
+
+	#phone{
+		margin-top: 10px; 	
+		width: 329px;
+	}
